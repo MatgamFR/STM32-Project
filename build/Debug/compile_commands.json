@@ -1,0 +1,112 @@
+[
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\Rayquaza.dir\\Core\\Src\\main.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Core\\Src\\main.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Core/Src/main.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\Rayquaza.dir\\Core\\Src\\stm32f4xx_it.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Core\\Src\\stm32f4xx_it.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Core/Src/stm32f4xx_it.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\Rayquaza.dir\\Core\\Src\\stm32f4xx_hal_msp.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Core\\Src\\stm32f4xx_hal_msp.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Core/Src/stm32f4xx_hal_msp.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\Rayquaza.dir\\Core\\Src\\sysmem.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Core\\Src\\sysmem.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Core/Src/sysmem.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o CMakeFiles\\Rayquaza.dir\\Core\\Src\\syscalls.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Core\\Src\\syscalls.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Core/Src/syscalls.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -x assembler-with-cpp -MMD -MP -g -o CMakeFiles\\Rayquaza.dir\\startup_stm32f446xx.s.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\startup_stm32f446xx.s",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/startup_stm32f446xx.s"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Core\\Src\\system_stm32f4xx.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Core\\Src\\system_stm32f4xx.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Core/Src/system_stm32f4xx.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_rcc_ex.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ex.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_flash_ramfunc.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_gpio.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma_ex.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_dma.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_pwr_ex.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_cortex.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_exti.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\STM32F4xx_HAL_Driver\\Src\\stm32f4xx_hal_uart.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c"
+},
+{
+  "directory": "C:/Users/Mattéo/Documents/stm/Rayquaza/build/Debug",
+  "command": "C:\\PROGRA~2\\ARMGNU~1\\14EFD8~1.2RE\\bin\\AR19DD~1.EXE -DDEBUG -DSTM32F446xx -DUSE_HAL_DRIVER -DUSE_NUCLEO_64 -I../../cmake/stm32cubemx/../../Core/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../cmake/stm32cubemx/../../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../../cmake/stm32cubemx/../../Drivers/BSP/STM32F4xx-Nucleo -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../../cmake/stm32cubemx/../../Drivers/CMSIS/Include  -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard  -Wall -fdata-sections -ffunction-sections -fstack-usage -O0 -g3 -std=gnu11 -o cmake\\stm32cubemx\\CMakeFiles\\STM32_Drivers.dir\\__\\__\\Drivers\\BSP\\STM32F4xx-Nucleo\\stm32f4xx_nucleo.c.obj -c C:\\Users\\Mattéo\\Documents\\stm\\Rayquaza\\Drivers\\BSP\\STM32F4xx-Nucleo\\stm32f4xx_nucleo.c",
+  "file": "C:/Users/Mattéo/Documents/stm/Rayquaza/Drivers/BSP/STM32F4xx-Nucleo/stm32f4xx_nucleo.c"
+}
+]
